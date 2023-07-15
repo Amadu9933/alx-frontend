@@ -1,4 +1,4 @@
-/*  Removing decoration on anchor elements */
+/*  Removing decorations on anchor elements */
 
 html {
   scroll-behavior: smooth;
@@ -13,7 +13,8 @@ html {
   --color-dark-grey: #353535;
   --text-color: var(--color-black);
 
-  --font-family-base: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-family-base: "Open Sans", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
   --font-family-title: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
   --font-size-small: 1.2rem;
